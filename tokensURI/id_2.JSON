@@ -1,0 +1,28 @@
+{
+  "name": "Jeembo driver",
+  "description": "You can't turn away from your family, even if it has turned away from you.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQMchrr8cahzqVyCd51uzAkSLZTTWdLM4VexQHXeZjg6u",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 4
+    },
+    {
+      "trait_type": "Brutality",
+      "value": "High level"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "Incredibly"
+    },
+    {
+      "trait_type": "View",
+      "value": "Side"
+    },
+    {
+      "trait_type": "Aggressive",
+      "value": "Definitely"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "saddest Jeembo",
+  "description": "Grustno i vkusno.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmSJqMmaLFH3z5rLyMadSHbZcHmDRGFAHgsEazqj7ZExsk",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 2
+    },
+    {
+      "trait_type": "Beauty",
+      "value": "Ugly"
+    },
+    {
+      "trait_type": "Sleep",
+      "value": "A bit"
+    },
+    {
+      "trait_type": "CloseUp",
+      "value": "8"
+    },
+    {
+      "trait_type": "View",
+      "value": "Front"
+    },
+    {
+      "trait_type": "Sadness",
+      "value": "Saddest"
+    }
+  ]
+}

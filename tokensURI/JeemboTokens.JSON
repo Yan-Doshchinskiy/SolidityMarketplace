@@ -1,0 +1,573 @@
+[{
+  "name": "Jeembo Diesel",
+  "description": "This cat drives like a Vin Diesel. He says: 'My boltaem ili edem???'",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQ9aHca3aCtQya4w4rbnUEiPAiEMHfgtsfVyqZfT8mJWg",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 5
+    },
+    {
+      "trait_type": "Brutality",
+      "value": "Absolute"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "Heartbreaker"
+    },
+    {
+      "trait_type": "CloseUp",
+      "value": "Сlose enough"
+    },
+    {
+      "trait_type": "View",
+      "value": "Side"
+    },
+    {
+      "trait_type": "Aggressive",
+      "value": "A bit"
+    }
+  ]
+},
+  {
+    "name": "Jeembo driver",
+    "description": "You can't turn away from your family, even if it has turned away from you.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQMchrr8cahzqVyCd51uzAkSLZTTWdLM4VexQHXeZjg6u",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 4
+      },
+      {
+        "trait_type": "Brutality",
+        "value": "High level"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "Incredibly"
+      },
+      {
+        "trait_type": "View",
+        "value": "Side"
+      },
+      {
+        "trait_type": "Aggressive",
+        "value": "Definitely"
+      }
+    ]
+  },
+  {
+    "name": "Jeembo from Fryazino",
+    "description": "Witness from Fryazino",
+    "image": "https://gateway.pinata.cloud/ipfs/QmfLv6dfBnSahKnnfeeJDooERZBCXNGJe3JHVi3bjUzT1J",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 3
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Norm"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "Definitely"
+      },
+      {
+        "trait_type": "Witness From Fryazino",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Christmas",
+        "value": "Decorator"
+      },
+      {
+        "trait_type": "View",
+        "value": "From the edge"
+      }
+    ]
+  },
+  {
+    "name": "Slipping Jeembo",
+    "description": "Jeembo forgot to turn off the TV and fell asleep. Damn spender.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUWcCvVQfxeBNpSDaBxa9qUdMidrrJXzoR4qphnLMXUHR",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 4
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Very"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "I think yes"
+      },
+      {
+        "trait_type": "Sleep",
+        "value": "Serial sleeper"
+      },
+      {
+        "trait_type": "View",
+        "value": "Top view"
+      }
+    ]
+  },
+  {
+    "name": "Slipping Jeembo",
+    "description": "Default cat",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQXKQDPrpBdP4WU8iKJnPjzdKfXKX9Xmx1nhgCTBNiWji",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 1
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Not exactly handsome"
+      },
+      {
+        "trait_type": "Grace",
+        "value": "A bit"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "A bit"
+      },
+      {
+        "trait_type": "Belly",
+        "value": "A bit"
+      },
+      {
+        "trait_type": "CloseUp",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Christmas",
+        "value": "On the background"
+      },
+      {
+        "trait_type": "View",
+        "value": "side"
+      },
+      {
+        "trait_type": "Selfie",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "Arrogant Jeembo",
+    "description": "Very arrogant cat. Don't encourage it",
+    "image": "https://gateway.pinata.cloud/ipfs/QmZmnvUqXto5eQeH9NiMjeENLB6qTwpFJCeH8FpMaCs59H",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 1
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Ugly"
+      },
+      {
+        "trait_type": "Brutality",
+        "value": "A bit"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "No"
+      },
+      {
+        "trait_type": "CloseUp",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "View",
+        "value": "Front"
+      },
+      {
+        "trait_type": "Selfie",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Aggressive",
+        "value": "A bit"
+      },
+      {
+        "trait_type": "Sadness",
+        "value": "A bit"
+      }
+    ]
+  },
+  {
+    "name": "Jeembo the sleeping hairdresser",
+    "description": "Cut cut cut",
+    "image": "https://gateway.pinata.cloud/ipfs/QmT5KnsBYerBPmQGA5BG8SQoD7fsYTiEzrbBAgFAyQPGfY",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 2
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Norm"
+      },
+      {
+        "trait_type": "Grace",
+        "value": "A bit"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "Norm"
+      },
+      {
+        "trait_type": "Sleep",
+        "value": "Definitely"
+      },
+      {
+        "trait_type": "Belly",
+        "value": "Yes, i see it"
+      },
+      {
+        "trait_type": "View",
+        "value": "Side"
+      }
+    ]
+  },
+  {
+    "name": "Jeembo parkour",
+    "description": "Not very smart, like any parkourist or turnstile man",
+    "image": "https://gateway.pinata.cloud/ipfs/QmePCCJ5yKoffjS2UsrduRGwuo9QHmZhocaWGkYrHAwiCH",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 3
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Norm"
+      },
+      {
+        "trait_type": "Acrobatics",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "Brutality",
+        "value": "Definitely"
+      },
+      {
+        "trait_type": "Grace",
+        "value": "Definitely"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "Definitely"
+      },
+      {
+        "trait_type": "View",
+        "value": "Front"
+      },
+      {
+        "trait_type": "Playful",
+        "value": "Very"
+      },
+      {
+        "trait_type": "Spy",
+        "value": "In theory"
+      },
+      {
+        "trait_type": "Aggressive",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "Jeembo selfie",
+    "description": "Default cat of the 3th level",
+    "image": "https://gateway.pinata.cloud/ipfs/QmW9wrk2BDwQip9wxSbk3GXeEUrbxZEBaUUfFwF2b2jVy9",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 3
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Norm"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "Norm"
+      },
+      {
+        "trait_type": "CloseUp",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "View",
+        "value": "Front"
+      },
+      {
+        "trait_type": "Selfie",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Sadness",
+        "value": "A bit"
+      }
+    ]
+  },
+  {
+    "name": "Jeembo in the office",
+    "description": "First day at the work",
+    "image": "https://gateway.pinata.cloud/ipfs/QmRsrmuH78vSCJm3LSujGmRPT9v2MTbKi3CqbqTdmrDspF",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 4
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "Acrobatics",
+        "value": "Definitely"
+      },
+      {
+        "trait_type": "Grace",
+        "value": "Definitely"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "Sleep",
+        "value": "A bit"
+      },
+      {
+        "trait_type": "Belly",
+        "value": "We don't know"
+      },
+      {
+        "trait_type": "CloseUp",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "View",
+        "value": "Front"
+      },
+      {
+        "trait_type": "Playful",
+        "value": "A bit"
+      }
+    ]
+  },
+  {
+    "name": "Jeembo the spy",
+    "description": "Half cat half chair",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQYcBwr4X5S7umE55pE4Uv5hcGoV2fYni3TK15kyW7Lgm",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 4
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Very"
+      },
+      {
+        "trait_type": "Acrobatics",
+        "value": "A bit"
+      },
+      {
+        "trait_type": "Grace",
+        "value": "No"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "Sleep",
+        "value": "We don't know"
+      },
+      {
+        "trait_type": "Belly",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "View",
+        "value": "Front"
+      },
+      {
+        "trait_type": "Playful",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Spy",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "Jeembo the grandfarter",
+    "description": "Sitting(lying) farting",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmc6vY6KSL6WF1weULNPosN7G7Qjr46ft1uH6uiRinnP2y",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 2
+      },
+      {
+        "trait_type": "Sleep",
+        "value": "Definitely"
+      },
+      {
+        "trait_type": "Belly",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "CloseUp",
+        "value": "8"
+      },
+      {
+        "trait_type": "View",
+        "value": "Front"
+      },
+      {
+        "trait_type": "Sadness",
+        "value": "Definitely"
+      }
+    ]
+  },
+  {
+    "name": "Jeembo acrobat",
+    "description": "This cat drives like a Vin Diesel. He says: 'My boltaem ili edem???'",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQ6viy3QrFosTDAg45q15ZaUCSiZE5rkzvfvXRj5Mycaz",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 4
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Definitely"
+      },
+      {
+        "trait_type": "Acrobatics",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "Brutality",
+        "value": "A bit"
+      },
+      {
+        "trait_type": "Grace",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "Norm"
+      },
+      {
+        "trait_type": "View",
+        "value": "Front"
+      },
+      {
+        "trait_type": "Playful",
+        "value": "Definitely"
+      }
+    ]
+  },
+  {
+    "name": "saddest Jeembo",
+    "description": "Grustno i vkusno.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmSJqMmaLFH3z5rLyMadSHbZcHmDRGFAHgsEazqj7ZExsk",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 2
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Ugly"
+      },
+      {
+        "trait_type": "Sleep",
+        "value": "A bit"
+      },
+      {
+        "trait_type": "CloseUp",
+        "value": "8"
+      },
+      {
+        "trait_type": "View",
+        "value": "Front"
+      },
+      {
+        "trait_type": "Sadness",
+        "value": "Saddest"
+      }
+    ]
+  },
+  {
+    "name": "Christmas Jeembo",
+    "description": "Merry Christmas, Ya Filthy Animal. And A Happy New Year.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmQkRGkRi61r4kBpMKLonLnbWMcuivTwCUTdSLmhb3u1Fi",
+    "attributes": [
+      {
+        "display_type": "number",
+        "trait_type": "Level",
+        "value": 5
+      },
+      {
+        "trait_type": "Beauty",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "Acrobatics",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "Grace",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "Likable",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "Belly",
+        "value": "Definitely"
+      },
+      {
+        "trait_type": "Christmas",
+        "value": "Top level"
+      },
+      {
+        "trait_type": "View",
+        "value": "Back"
+      },
+      {
+        "trait_type": "Playful",
+        "value": "Top level"
+      }
+    ]
+  }
+]

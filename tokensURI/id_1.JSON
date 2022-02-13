@@ -1,0 +1,32 @@
+{
+  "name": "Jeembo Diesel",
+  "description": "This cat drives like a Vin Diesel. He says: 'My boltaem ili edem???'",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQ9aHca3aCtQya4w4rbnUEiPAiEMHfgtsfVyqZfT8mJWg",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 5
+    },
+    {
+      "trait_type": "Brutality",
+      "value": "Absolute"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "Heartbreaker"
+    },
+    {
+      "trait_type": "CloseUp",
+      "value": "Сlose enough"
+    },
+    {
+      "trait_type": "View",
+      "value": "Side"
+    },
+    {
+      "trait_type": "Aggressive",
+      "value": "A bit"
+    }
+  ]
+}

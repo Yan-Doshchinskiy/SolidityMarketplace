@@ -1,0 +1,48 @@
+{
+  "name": "Jeembo the spy",
+  "description": "Half cat half chair",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQYcBwr4X5S7umE55pE4Uv5hcGoV2fYni3TK15kyW7Lgm",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 4
+    },
+    {
+      "trait_type": "Beauty",
+      "value": "Very"
+    },
+    {
+      "trait_type": "Acrobatics",
+      "value": "A bit"
+    },
+    {
+      "trait_type": "Grace",
+      "value": "No"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "Sleep",
+      "value": "We don't know"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "View",
+      "value": "Front"
+    },
+    {
+      "trait_type": "Playful",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Spy",
+      "value": "Yes"
+    }
+  ]
+}

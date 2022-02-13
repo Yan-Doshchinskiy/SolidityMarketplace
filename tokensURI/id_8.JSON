@@ -1,0 +1,48 @@
+{
+  "name": "Jeembo parkour",
+  "description": "Not very smart, like any parkourist or turnstile man",
+  "image": "https://gateway.pinata.cloud/ipfs/QmePCCJ5yKoffjS2UsrduRGwuo9QHmZhocaWGkYrHAwiCH",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 3
+    },
+    {
+      "trait_type": "Beauty",
+      "value": "Norm"
+    },
+    {
+      "trait_type": "Acrobatics",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "Brutality",
+      "value": "Definitely"
+    },
+    {
+      "trait_type": "Grace",
+      "value": "Definitely"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "Definitely"
+    },
+    {
+      "trait_type": "View",
+      "value": "Front"
+    },
+    {
+      "trait_type": "Playful",
+      "value": "Very"
+    },
+    {
+      "trait_type": "Spy",
+      "value": "In theory"
+    },
+    {
+      "trait_type": "Aggressive",
+      "value": "Yes"
+    }
+  ]
+}

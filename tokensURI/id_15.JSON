@@ -1,0 +1,44 @@
+{
+  "name": "Christmas Jeembo",
+  "description": "Merry Christmas, Ya Filthy Animal. And A Happy New Year.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQkRGkRi61r4kBpMKLonLnbWMcuivTwCUTdSLmhb3u1Fi",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 5
+    },
+    {
+      "trait_type": "Beauty",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "Acrobatics",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "Grace",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Definitely"
+    },
+    {
+      "trait_type": "Christmas",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "View",
+      "value": "Back"
+    },
+    {
+      "trait_type": "Playful",
+      "value": "Top level"
+    }
+  ]
+}

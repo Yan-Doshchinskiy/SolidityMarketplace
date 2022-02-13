@@ -1,0 +1,36 @@
+{
+  "name": "Jeembo selfie",
+  "description": "Default cat of the 3th level",
+  "image": "https://gateway.pinata.cloud/ipfs/QmW9wrk2BDwQip9wxSbk3GXeEUrbxZEBaUUfFwF2b2jVy9",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 3
+    },
+    {
+      "trait_type": "Beauty",
+      "value": "Norm"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "Norm"
+    },
+    {
+      "trait_type": "CloseUp",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "View",
+      "value": "Front"
+    },
+    {
+      "trait_type": "Selfie",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Sadness",
+      "value": "A bit"
+    }
+  ]
+}

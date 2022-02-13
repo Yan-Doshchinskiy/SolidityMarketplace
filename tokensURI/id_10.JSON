@@ -1,0 +1,48 @@
+{
+  "name": "Jeembo in the office",
+  "description": "First day at the work",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRsrmuH78vSCJm3LSujGmRPT9v2MTbKi3CqbqTdmrDspF",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 4
+    },
+    {
+      "trait_type": "Beauty",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "Acrobatics",
+      "value": "Definitely"
+    },
+    {
+      "trait_type": "Grace",
+      "value": "Definitely"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "Sleep",
+      "value": "A bit"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "We don't know"
+    },
+    {
+      "trait_type": "CloseUp",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "View",
+      "value": "Front"
+    },
+    {
+      "trait_type": "Playful",
+      "value": "A bit"
+    }
+  ]
+}

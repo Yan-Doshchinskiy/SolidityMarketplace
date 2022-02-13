@@ -1,0 +1,36 @@
+{
+  "name": "Jeembo the sleeping hairdresser",
+  "description": "Cut cut cut",
+  "image": "https://gateway.pinata.cloud/ipfs/QmT5KnsBYerBPmQGA5BG8SQoD7fsYTiEzrbBAgFAyQPGfY",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 2
+    },
+    {
+      "trait_type": "Beauty",
+      "value": "Norm"
+    },
+    {
+      "trait_type": "Grace",
+      "value": "A bit"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "Norm"
+    },
+    {
+      "trait_type": "Sleep",
+      "value": "Definitely"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Yes, i see it"
+    },
+    {
+      "trait_type": "View",
+      "value": "Side"
+    }
+  ]
+}

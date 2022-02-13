@@ -1,0 +1,17 @@
+export default [
+  "QmQPvs8MN5o3uMTa5huaixmh2w1PXKJQ97MeqnSo39PY3L",
+  "QmZncGdrzehNf76VEYsoM2Rdzy1sRthXjUza3GbwkFoKrk",
+  "QmVnsHWtNPBpiGFV3yD9DFXGfCsRzFU13BXS4j3Hwy4Qic",
+  "Qmb8PbHaohCPnf5ufAjVSwzx9UE4BxNLcYbFUpUQjjkvaL",
+  "QmULQaHhF5nbszoDJtzrd1LtamrU6LbVmoVbgneadbHroA",
+  "QmPtwvjgw845WPCSSXLoDFu15WRMnDSHf7iJSLWvLQzCWm",
+  "QmPqMUbxa4GKKmxz1F4co68SbtfAFMCejZHoP2VqcHtpve",
+  "QmPmPi9KmNH9QrW9nghARZ5tyQXvxTjSsnLwTYQgboxf4r",
+  "Qmd677NHkwMhiVaAi1b8921PfjsxE9iWkwWRSiKw1s3Cra",
+  "QmNfgUfyFsj4T7S6huJFJQmW7Ns1rY52PQ32R2JR9zu9sb",
+  "QmeAqL6K5AUsAKG4BY4vRpFy33QymvNsJtjRLP2yshCF6T",
+  "QmT7fuU7zo4C5LWxY6t8e7EaCNkjbLy61tYy7b4xhVVthx",
+  "QmZPyZfN9V5vpung9uT4jhrT2YjSLR8u4eMUrQKk5rX3v8",
+  "QmQwbLudRZ7xqHAs9URDbDEyPpEymknUESzDCyEuqTa4AL",
+  "QmVUUcqAv3mPreZVJ9CpF8D5w7QPgphcHJKbxWSuq9etJK",
+];

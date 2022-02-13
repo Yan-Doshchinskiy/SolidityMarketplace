@@ -1,0 +1,32 @@
+{
+  "name": "Jeembo the grandfarter",
+  "description": "Sitting(lying) farting",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmc6vY6KSL6WF1weULNPosN7G7Qjr46ft1uH6uiRinnP2y",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 2
+    },
+    {
+      "trait_type": "Sleep",
+      "value": "Definitely"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "Top level"
+    },
+    {
+      "trait_type": "CloseUp",
+      "value": "8"
+    },
+    {
+      "trait_type": "View",
+      "value": "Front"
+    },
+    {
+      "trait_type": "Sadness",
+      "value": "Definitely"
+    }
+  ]
+}

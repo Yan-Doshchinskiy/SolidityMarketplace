@@ -1,0 +1,44 @@
+{
+  "name": "Arrogant Jeembo",
+  "description": "Very arrogant cat. Don't encourage it",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZmnvUqXto5eQeH9NiMjeENLB6qTwpFJCeH8FpMaCs59H",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 1
+    },
+    {
+      "trait_type": "Beauty",
+      "value": "Ugly"
+    },
+    {
+      "trait_type": "Brutality",
+      "value": "A bit"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "No"
+    },
+    {
+      "trait_type": "CloseUp",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "View",
+      "value": "Front"
+    },
+    {
+      "trait_type": "Selfie",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Aggressive",
+      "value": "A bit"
+    },
+    {
+      "trait_type": "Sadness",
+      "value": "A bit"
+    }
+  ]
+}

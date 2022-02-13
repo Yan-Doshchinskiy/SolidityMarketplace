@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "noImplicitThis": false,
+    "target": "es2018",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "declaration": true,
+    "lib": [
+      "esnext",
+      "esnext.asynciterable",
+      "dom"
+    ],
+    "allowJs": true,
+    "sourceMap": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "~/*": [
+        "./*"
+      ],
+      "@/*": [
+        "./*"
+      ]
+    },
+    "types": [
+      "@types/chai",
+      "@types/mocha",
+      "@types/node",
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Jeembo from Fryazino",
+  "description": "Witness from Fryazino",
+  "image": "https://gateway.pinata.cloud/ipfs/QmfLv6dfBnSahKnnfeeJDooERZBCXNGJe3JHVi3bjUzT1J",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 3
+    },
+    {
+      "trait_type": "Beauty",
+      "value": "Norm"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "Definitely"
+    },
+    {
+      "trait_type": "Witness From Fryazino",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Christmas",
+      "value": "Decorator"
+    },
+    {
+      "trait_type": "View",
+      "value": "From the edge"
+    }
+  ]
+}

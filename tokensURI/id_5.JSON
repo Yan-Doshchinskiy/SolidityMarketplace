@@ -1,0 +1,44 @@
+{
+  "name": "Slipping Jeembo",
+  "description": "Default cat",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQXKQDPrpBdP4WU8iKJnPjzdKfXKX9Xmx1nhgCTBNiWji",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Level",
+      "value": 1
+    },
+    {
+      "trait_type": "Beauty",
+      "value": "Not exactly handsome"
+    },
+    {
+      "trait_type": "Grace",
+      "value": "A bit"
+    },
+    {
+      "trait_type": "Likable",
+      "value": "A bit"
+    },
+    {
+      "trait_type": "Belly",
+      "value": "A bit"
+    },
+    {
+      "trait_type": "CloseUp",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Christmas",
+      "value": "On the background"
+    },
+    {
+      "trait_type": "View",
+      "value": "side"
+    },
+    {
+      "trait_type": "Selfie",
+      "value": "Yes"
+    }
+  ]
+}
