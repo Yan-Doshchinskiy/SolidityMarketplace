@@ -2,7 +2,7 @@ import { ethers } from "hardhat";
 import argumentsArray from "../arguments/Marketplace";
 
 // hardhat run --network rinkeby scripts/deploy.ts
-// hardhat verify --network rinkeby --constructor-args ./arguments/Marketplace.ts 0xCa7e44B9f9C108857eE89cde9879085aE6d5395d
+// hardhat verify --network rinkeby --constructor-args ./arguments/Marketplace.ts 0x0BcF670Baa312A6Ef2048C6F5CCB1B99A6Fe632b
 
 async function main(): Promise<void> {
   const [deployer] = await ethers.getSigners();
