@@ -1,12 +1,12 @@
 // eslint-disable-next-line node/no-missing-import
 import hre, { ethers, artifacts, waffle } from "hardhat";
-import axios from "axios";
 import { Artifact } from "hardhat/types";
 import ERC721mintFunctions from "./ERC721/mintFunctions";
 import ERC721viewFunctions from "./ERC721/viewFunctions";
 import ERC721uriFunctions from "./ERC721/uriFunctions";
 import MarketplaceViewFunctions from "./Marketplace/viewFunctions";
-import MarketplaceCreateItemFunctions from "./Marketplace/createItem";
+import MarketplaceOfferFunctions from "./Marketplace/offers";
+import MarketplaceAuctionFunctions from "./Marketplace/auction";
 import argumentsArrayERC721 from "../arguments/ERC721";
 import argumentsArrayMarketplace from "../arguments/Marketplace";
 import { supportInterfacesERC721 } from "../interfaces/supportInterfacesERC721";
@@ -34,6 +34,7 @@ describe("contract testing", async function () {
   before(async function () {
     [this.trash2, this.minBidCount, this.auctionDuration] =
       argumentsArrayMarketplace;
+    this.paymentToken = "0x4AF49f4b6869E1B9ca6CA16Cf85359bC283488eF";
   });
   beforeEach(async function () {
     const artifactERC721: Artifact = await artifacts.readArtifact(
@@ -72,5 +73,6 @@ describe("contract testing", async function () {
   ERC721viewFunctions();
   ERC721uriFunctions();
   MarketplaceViewFunctions();
-  MarketplaceCreateItemFunctions();
+  MarketplaceOfferFunctions();
+  MarketplaceAuctionFunctions();
 });

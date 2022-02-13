@@ -1,1 +1,1 @@
-import "./mint";
+import "./changeMinterERC721";

@@ -21,7 +21,14 @@ contract TokenERC721 is ERC721URIStorage, AccessControl {
     uint256 private supplyLimit;
     address minter;
 
-    constructor(string memory tokenName, string memory symbol, string memory _URIofContract, string memory _URIofCollection, address _minter, uint256 _supplyLimit) ERC721(tokenName, symbol) {
+    constructor(
+        string memory tokenName,
+        string memory symbol,
+        string memory _URIofContract,
+        string memory _URIofCollection,
+        address _minter,
+        uint256 _supplyLimit
+    ) ERC721(tokenName, symbol) {
         _setupRole(OWNER_ROLE, msg.sender);
         _setupRole(MINTER_ROLE, _minter);
         _contractURI = _URIofContract;

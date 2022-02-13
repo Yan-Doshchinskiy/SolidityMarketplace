@@ -24,7 +24,8 @@ const accounts = [ownerPrivateKey, secondSignerPrivateKey].filter(
 const chainId = Number(process.env.CHAIN_ID as string) || 0;
 const reportGas = (process.env.REPORT_GAS as string) === "true";
 const apiKey = process.env.API_KEY as string;
-const minterAddress = process.env.MINTER_ADDRESS as string;
+const tokenContract = process.env.TOKEN_CONTRACT_ADDRESS as string;
+const marketplaceContract = process.env.MARKETPLACE_CONTRACT_ADDRESS as string;
 
 type IEnvItem = { value: string | number; key: string };
 
@@ -33,7 +34,8 @@ const requiredEnvs: Array<IEnvItem> = [
   { value: ownerPrivateKey, key: "PRIVATE_KEY" },
   { value: chainId, key: "CHAIN_ID" },
   { value: apiKey, key: "API_KEY" },
-  { value: minterAddress, key: "MINTER_ADDRESS" },
+  { value: tokenContract, key: "TOKEN_CONTRACT_ADDRESS" },
+  { value: marketplaceContract, key: "MARKETPLACE_CONTRACT_ADDRESS" },
 ];
 
 requiredEnvs.forEach((item: IEnvItem): void => {
