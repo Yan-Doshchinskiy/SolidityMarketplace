@@ -1,8 +1,8 @@
 import { ethers } from "hardhat";
 import argumentsArray from "../arguments/ERC721";
 
-// hardhat run --network rinkeby scripts/deployToken.ts
-// hardhat verify --network rinkeby --constructor-args ./arguments/ERC721.ts 0xCa7e44B9f9C108857eE89cde9879085aE6d5395d
+// hardhat run --network mumbai scripts/deployToken.ts
+// hardhat verify --network mumbai --constructor-args ./arguments/ERC721.ts 0x395fBb7dCF74d7576f3C6c66164353Bff385B86A
 
 async function main(): Promise<void> {
   const [deployer] = await ethers.getSigners();

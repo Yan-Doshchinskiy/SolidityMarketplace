@@ -35,7 +35,7 @@ const requiredEnvs: Array<IEnvItem> = [
   { value: chainId, key: "CHAIN_ID" },
   { value: apiKey, key: "API_KEY" },
   { value: tokenContract, key: "TOKEN_CONTRACT_ADDRESS" },
-  { value: marketplaceContract, key: "MARKETPLACE_CONTRACT_ADDRESS" },
+  // { value: marketplaceContract, key: "MARKETPLACE_CONTRACT_ADDRESS" },
 ];
 
 requiredEnvs.forEach((item: IEnvItem): void => {
@@ -57,7 +57,7 @@ const config: IConfig = {
     },
   },
   networks: {
-    rinkeby: {
+    mumbai: {
       url,
       accounts: accounts,
       chainId,
@@ -74,7 +74,7 @@ const config: IConfig = {
     tests: "./test",
   },
   etherscan: {
-    apiKey: apiKey.toUpperCase(),
+    apiKey,
   },
   mocha: {
     timeout: 500000,
